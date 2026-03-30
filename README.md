@@ -31,7 +31,7 @@ Some of these sources have been described and documented in the following papers
 
 ## Metadata Model
 The description of the data in the overview follows the metadata model ProMeta as described in the following paper:
-Schreiber, C., Fritsch, A., Schiefer, G., & Oberweis, A. (2025). Towards a Metadata Model for Process Data. In EMISA.
+- Schreiber, C., Fritsch, A., Schiefer, G., & Oberweis, A. (2025). Towards a Metadata Model for Process Data. In EMISA.
 
 ## Contributing
 To register additional data sources use the following form: 
